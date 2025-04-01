@@ -1,0 +1,15 @@
+{
+  "name": "rag-simple-test",
+  "version": "0.0.1",
+  "description": "rag-simple-test",
+  "apidoc": {
+    "title": "rag-simple-test",
+    "url" : "http://localhost:3100/api"
+  },
+  "template": {
+    "withCompare": true,
+    "withGenerator": true,
+    "aloneDisplay": false,
+    "theme-color": "#fcba03"
+  }
+}
